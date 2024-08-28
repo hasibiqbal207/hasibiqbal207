@@ -27,9 +27,10 @@ You can view more of my work -> [here](https://github.com/hasibiqbal207?tab=repo
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hasibiqbal207&theme=default&hide_border=false&include_all_commits=false&count_private=false&rank_icon=github" alt="hasibiqbal207" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibiqbal207&theme=default&hide_border=false" alt="hasibiqbal207" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibiqbal207&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="hasibiqbal207" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibiqbal207&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="hasibiqbal207" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibiqbal207&theme=default&hide_border=false" alt="hasibiqbal207" /></p>
+
 
 <!-- Let's Connect -->
 <h3 align="left">Let's Connect 🌍</h3>
