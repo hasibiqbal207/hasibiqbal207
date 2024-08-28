@@ -21,6 +21,13 @@
 
 You can view more of my work -> [here](https://github.com/hasibiqbal207?tab=repositories).
 
+<!-- Professional Goals -->
+<h3 align="left">Professional Goals 🚀</h3>
+
+**Career Growth:** Aiming to advance my software engineering career by taking on challenging roles that leverage my expertise in full-stack development and cloud technologies.
+
+**Continuous Learning:** Committed to staying at the forefront of technology by continuously refining my skills and keeping up with the latest industry trends.
+
 <!-- Github Stats -->
 <h3 align="left">GitHub Stats 📊</h3>
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=hasibiqbal207&icon=0&color=0" alt="hasibiqbal207" /> </p>
