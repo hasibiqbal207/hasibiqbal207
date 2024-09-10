@@ -19,6 +19,11 @@
 - **[Splitwise Web](https://github.com/hasibiqbal207/splitwise-web):** An expense-tracking web application with a settlement feature for shared spending in a group.
 - **[SafeAccess](https://github.com/hasibiqbal207/authentication-authorization):** A microservice for authentication and authorization providing secure access control.
 
+<h4 align="left">Public Templates</h4>
+
+- **[Node.js Backend Template](https://github.com/hasibiqbal207/nodejs-backend-template):** A boilerplate project designed to kick-start Node.js applications with a structured setup.
+- **[MERN Fullstack Template](https://github.com/hasibiqbal207/mern-fullstack-template):** A boilerplate project for kickstarting a Full-Stack application with React and Node.js
+
 You can view more of my work -> [here](https://github.com/hasibiqbal207?tab=repositories).
 
 <!-- Professional Goals -->
