@@ -52,3 +52,12 @@ You can view more of my work -> [here](https://github.com/hasibiqbal207?tab=repo
 - 🔗 [Portfolio](https://hasibiqbal.dev)
 
 Feel free to reach out if you're interested in collaboration or just want to chat about software development and technology! 
+
+<!-- Projects -->
+<h3 align="left">Quick Links to Projects [For Personal Use] 📚</h3>
+
+- **[Help Me Learn](https://github.com/hasibiqbal207/help-me-learn):** A platform for university students to offer and find tutoring services.
+- **[Splitwise Web](https://github.com/hasibiqbal207/splitwise-web):** An expense-tracking web application with a settlement feature for shared spending in a group.
+- **[SafeAccess](https://github.com/hasibiqbal207/authentication-authorization):** A microservice for authentication and authorization providing secure access control.
+- **[Inventory Management](https://github.com/hasibiqbal207/inventory-management-backend):** A microservice for authentication and authorization providing secure access control.
+
